@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "CERV",
+    "slug": "CERV",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pie.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tanish7800.CERV"
+    },
+    "android": {
+      "useNextNotificationsApi": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pie.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.tanish7800.CERV"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

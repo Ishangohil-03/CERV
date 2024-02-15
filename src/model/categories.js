@@ -1,0 +1,64 @@
+let Categories = [
+    {
+        id:1,
+        name:'Chinese',
+        image:'https://www.stylist.co.uk/images/app/uploads/2022/02/21162920/gettyimages-905079230-256x256.jpg?w=256&h=256&fit=max&auto=format%2Ccompress',
+    },
+    {
+        id:2,
+        name:'Italian',
+        image:'https://media-cdn.tripadvisor.com/media/photo-s/12/ad/87/30/img-20180418-wa0029-largejpg.jpg',
+    },
+    {
+        id:3,
+        name:'Thai',
+        image:'https://www.stylist.co.uk/images/app/uploads/2021/04/15172548/thai-cucumber-salad-recipe-crop-1618504036-1667x1667.png?w=256&h=256&fit=max&auto=format%2Ccompress',
+    },
+    {
+        id:4,
+        name:'Indian',
+        image:'https://www.blueosa.com/wp-content/uploads/2020/01/the-best-top-10-indian-dishes.jpg',
+    },
+    {
+        id:5,
+        name:'Mexican',
+        image:'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-202104-birriatacos-058-1619806492.jpg',
+    },
+    {
+        id:6,
+        name:'Korean',
+        image:'https://assets.vogue.in/photos/6103d492578ff515bee7dfba/2:3/w_2560%2Cc_limit/Korean%2520food%2520restaurants%2520in%2520India.jpg',
+    },
+    {
+        id:7,
+        name:'Greek',
+        image:'https://i0.wp.com/bucketlistjourney.net/wp-content/uploads/2016/06/Gyros-RF-2-2.jpg',
+    },
+    {
+        id:8,
+        name:'Japanese',
+        image:'https://www.wapititravel.com/blog/wp-content/uploads/2020/01/sukiyaka_healthy_japan_food.jpg',
+    },
+    {
+        id:9,
+        name:'Vietnamese',
+        image:'https://www.thespruceeats.com/thmb/fx6-0W8mZKrRwLGiWURicde2f4s=/1500x1000/filters:fill(auto,1)/pho-bo-soup-vietnamese-recipe-695196-hero-03-0fca703b0af6435e96e7da8f29c2d649.jpg',
+    },
+    {
+        id:10,
+        name:'Mediterranean',
+        image:'https://i.insider.com/5b33c37a1ae6621d008b499c?width=1136&format=jpeg',
+    },
+    {
+        id:11,
+        name:'Party Foods',
+        image:'https://images.immediate.co.uk/production/volatile/sites/30/2020/11/Vanilla-milkshake-bar-b0586f8.jpg',
+    },
+    {
+        id:12,
+        name:'Specialty Foods',
+        image:'https://3vutl53ptg882udssu1ej6pn-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/cheese-plate.jpg',
+    }
+]
+
+export default Categories;
